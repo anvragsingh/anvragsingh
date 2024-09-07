@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a undergrad student in NSUT pursing by BTech in Electronics.<br>I'm currently working on blockchain project on my own.<br>I'm currently learning Solidity and Javascript with web3.js. <br>Ask me about anything except my college life.<br>Fun fact : I'm jack of all programming language but master of none.<br>Trying my best to gain new skills and work experince.<br>
+I'm a undergrad student in NSUT pursing by BTech in Electronics.<br>I'm currently working on blockchain project on my own.<br>I'm currently learning Solidity and Javascript with web3.js. <br>Ask me about anything except my college life.<br>Fun fact : I'm jack of all programming language but master of none.<br>Trying my best to gain new skills and work experience.<br>
 
 
 ## 🌐 Socials:
