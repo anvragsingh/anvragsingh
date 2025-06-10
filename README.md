@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm a undergrad student in NSUT pursing by BTech in Electronics.<br>I'm currently working on blockchain project on my own.<br>I'm currently learning Solidity and Javascript with web3.js. <br>Ask me about anything except my college life.<br>Fun fact : I'm jack of all programming language but master of none.<br>Trying my best to gain new skills and work experience.<br>
+I'm a undergrad student in NSUT pursing by BTech in Electronics.<br>I'm a passionate full stack developer with expertise in building scalable web applications and robust backend systems.<br> I enjoy tackling complex technical challenges and transforming ideas into efficient, user-centric solutions.<br>
+i have great expertise and experience in: <br>
+1. End-to-End Solution Architecture  -       Combines full stack architecture and API <br>
+2. Performance Engineering & Optimization - Merges performance optimization and database design <br>
+3. Quality-Driven Development -             Encompasses code quality and best practices <br>
+4. Cloud-Native Innovation -                Integrates your current focus areas into your ongoing work <br>
 
 
 ## 🌐 Socials:
